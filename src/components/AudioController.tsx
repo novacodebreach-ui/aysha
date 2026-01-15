@@ -33,7 +33,7 @@ const AudioController: FC<AudioControllerProps> = ({ isPlaying }) => {
   return (
     <audio
       ref={audioRef}
-      src="/sound/mp.mp4"
+      src="/sound/mp.mp3"
       loop
       preload="auto"
       style={{ display: 'none' }}
