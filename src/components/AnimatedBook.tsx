@@ -56,7 +56,7 @@ const AnimatedBook: FC<AnimatedBookProps> = ({ isVisible, onInteraction }) => {
   if (!isVisible) return null;
 
   const noteLines = [
-    "To my dearest Ruchi,",
+    "To my dearest Aunt,",
     "On this special day,",
     "may all your dreams",
     "come true. 💕"
