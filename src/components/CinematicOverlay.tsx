@@ -45,7 +45,7 @@ const CinematicOverlay: FC<CinematicOverlayProps> = ({ isVisible }) => {
           animation: 'fadeInUp 1.5s cubic-bezier(0.22, 1, 0.36, 1) forwards, neonPulse 3s cubic-bezier(0.4, 0, 0.6, 1) 2s infinite, breathe 4s cubic-bezier(0.4, 0, 0.6, 1) 2s infinite',
         }}
       >
-        Aysha
+        Ruchi
       </h1>
 
       {/* Birthday message in glass card */}
